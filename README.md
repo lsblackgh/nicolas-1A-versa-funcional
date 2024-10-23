@@ -5,24 +5,22 @@ index.html
 
 <head>
     <link rel="stylesheet" href="Style.css" />
-    <title>Aluraflix</title>
+    <title>ALURAGAMES</title>
 </head>
 
 <body>
 
-    <header>ALURAFLIX</header>
+    <header>ALURAGAMES</header>
 
     <section>
-        <div>
-            <h1>Anunaki passou mal no treino com o Big Jeff! - Leo Stronda</h1>
-            <p>#bigjeff</p>
+        <div class="chamada-texto";> 
+            <h1>FIZ UMA JOGADA INACREDITÁVEL CONTRA 4 PLAYERS FULL NO DAYZ
+            </h1>
+            <p>#GAMES</p>
         </div>
 
         <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/59JhO-kFMB4?si=QSOqaSaFfkGHe9cT"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/-4bMLDq-3sc?si=QipbITKU_2xiHzPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
     </section>
 
@@ -40,8 +38,20 @@ body {
 }
 
 header {
-   border-bottom: solid 1px rgb(42, 122, 228);
+   border-bottom: solid 1px rgb(190, 1, 247);
    padding: 20px;
    font-size: 32px;
-   color:rgb(42, 122, 228);
+   color:rgb(190, 1, 247);
 }
+section {
+  background: rgb(27, 32, 32);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content:center ;
+}
+.chamada-texto {
+    margin-right: 20px;
+}
+
+
