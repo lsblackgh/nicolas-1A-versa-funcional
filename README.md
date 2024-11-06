@@ -23,7 +23,14 @@ index.html
             <iframe width="560" height="315" src="https://www.youtube.com/embed/-4bMLDq-3sc?si=QipbITKU_2xiHzPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
     </section>
-
+    <section> 
+      <h2>Mais Games</h2>
+      <div> 
+         <a href="https://www.youtube.com/watch?v=htOT8MCSQe8">
+        <img src="https://img.youtube.com/vi/htOT8MCSQe8/maxresdefault.jpg" /> 
+        </a>
+      </div>
+    </section>
     <body>
 
 
